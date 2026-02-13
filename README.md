@@ -5,9 +5,11 @@
  ***About me:***
 
 I am a **Data Science** student, currently a third-year student in deparment of Applied Mathematics and Statistics ***(AMS)*** from Institute of Technology of cambodia, I'm expanding my knowledge in both Data Science and ML/AI.
+
 📚 I’m currently learning...
-- *Data science and Machine Learning*
-- *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
+  - *Data science and Machine Learning*
+  - *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
+
 ✔ Feel free to ask me anything!
 <br>
 
@@ -22,16 +24,15 @@ I am a **Data Science** student, currently a third-year student in deparment of 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###### Languages & Syntax:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![LaTex](https://img.shields.io/badge/latex-3670A0?style=for-the-badge&logo=latex&logoColor=ffdd54)&nbsp;
-
 
 
 ###### Backend & Frameworks:
 ![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-###### Machine Learning & Data Science:
+###### Machine Learning:
 ![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%46E3B7.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-sklearn-%23Clojure?style=for-the-badge&logo=sklearn&logoColor=white)&nbsp;
