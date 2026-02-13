@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/theanthefinest"> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a> Sotheara </a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lpa3gyenRsZ2VrbDZmdTNyY2V6dTQwM3lta28zczNjeDV2dDQzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="30"></h1>
 <br>
 
  ***About me:***
@@ -49,10 +49,6 @@ I am a **Data Science** student, currently a third-year student in deparment of 
 
 <br>
 <br>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sotheara_heang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thearah168@gmail.com) 
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sotheara-HEANG&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
