@@ -5,10 +5,10 @@
  ***About me:***
 
 I am a **Data Science** student, currently a third-year student in deparment of Applied Mathematics and Statistics ***(AMS)*** from Institute of Technology of cambodia, I'm expanding my knowledge in both Data Science and ML/AI.
-- 📚 I’m currently learning...
-  - *Data science and Machine Learning*
-  - *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
-- ✔ Feel free to ask me anything!
+📚 I’m currently learning...
+- *Data science and Machine Learning*
+- *Applied Mathematics (Numerical Analysis, Optimization and Statistic)*
+✔ Feel free to ask me anything!
 <br>
 
 ## 🌐 Socials:
